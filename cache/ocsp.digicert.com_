@@ -1,0 +1,17 @@
+HTTP/1.1 400 Bad Request
+Content-Type: text/html
+Content-Length: 90
+Expires: Tue, 25 Feb 2025 13:11:25 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 25 Feb 2025 13:11:25 GMT
+Connection: close
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=5
+Server-Timing: origin; dur=97
+Akamai-GRN: 0.db3e1202.1740489085.bb0bc65
+Server-Timing: ak_p; desc="1740489085506_34750171_196131941_10192_477_163_0_-";dur=1
+
+<html><body><h1>400 Bad request</h1>
+Your browser sent an invalid request.
+</body></html>

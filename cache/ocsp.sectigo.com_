@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Tue, 25 Feb 2025 13:11:16 GMT
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: close
+CF-Ray: 9177f0baaadecd41-LHR
+CF-Cache-Status: HIT
+Accept-Ranges: bytes
+Age: 4
+Last-Modified: Tue, 25 Feb 2025 13:11:12 GMT
+Vary: Accept-Encoding
+X-CCACDN-Proxy-ID: mcdpinlb6
+X-Frame-Options: SAMEORIGIN
+Server: cloudflare
+
+0
+
