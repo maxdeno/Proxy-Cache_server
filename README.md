@@ -3,7 +3,7 @@
 ## Features
 1. Caching:<br>
    The proxy server caches the content it retrieves from the web GET requests. If device wants to the same file, it retrieves it from the cache. 
-   It's advantages includes: Reduced network traffic, Reduced fetching Time and increased network performance
+   It's advantages includes: Reduced network traffic, Reduced fetching time and Increased network performance
    
 2. Timeout handling:<br>
    It also has response timeout of 5s, if there's no response from the web server it automatically disconnects the  connection. This prevents the server from hanging
